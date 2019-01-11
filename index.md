@@ -2,12 +2,12 @@
 layout: default
 title: Xyz
 ---
-## xyz
 
-	<h1>{{ page.title }}</h1>
+
+	#{{ page.title }}
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {{ post.date | date_to_string }} » [{{ post.title }}]({{ post.url }} )
 	  {% endfor %}
 	</ul>
