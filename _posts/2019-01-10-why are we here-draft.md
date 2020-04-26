@@ -21,16 +21,29 @@ I have two brothers and a sister.
 This was such a formative part of my life I'm not entirely sure where to start.  When I was about 12 years old my dad asked us if we wanted to raise animals.  I don't know who would say no to that.  Watch out kids, it's a trap!  Anyway, we spent the next four years raising ourselves in the style of Lord of the Flies.  When I could finally drive we no longer had to stay out there and James and I ended up doing most of the work on our own.
 
 ## Employment
-This lead me to a stint at an oil field, a couple of months in Mexico, and an interlude in San Diego.  When I returned to Laramie I was homeless, sleeping on couches of gracious friends before I ended up working in a carpet store.  After a few months of rollerblading and chili dogs I landed a job at Handel Information Technologies.  I worked there for seven years before I was unceremoniously fired.  I did get some severence so that was nice.  I used the money to start Azzl Software.  After getting more consulting work than I could handle I ended up creating a legal entity.  As luck would have it, I ended up taking a job with Propel Labs instead.  After 4 years of grueling but rewarding work, Esher happened.  Soon we moved back to Laramie and a couple of years of commuting to Fort Collins later I went part time.  This gave me free time to work on Neowire.  Not quite a year after going part time Neowire was almost making enough money to live on.  Ten months later, we are now making enough money to pay our taxes (hopefully).  I also decided I needed a place for my mind to wander.  Hence, richmiles.xyz.
+### Critique
+This lead me to a stint at an oil field, a couple of months in Mexico, and an interlude in San Diego.  When I returned to Laramie I was homeless, sleeping on couches of gracious friends before I ended up working in a carpet store.  After a few months of rollerblading and chili dogs I landed a job at Handel Information Technologies.  
+
+### Handel
+I worked there for seven years before I was unceremoniously fired.  I did get some severence so that was nice.  I used the money to start Azzl Software.  
+
+### Azzl
+After getting more consulting work than I could handle I ended up creating a legal entity.  As luck would have it, I ended up taking a job with Propel Labs instead.  
+
+### Propel
+After 4 years of grueling but rewarding work, Esher happened.  Soon we moved back to Laramie and a couple of years of commuting to Fort Collins later I went part time.  This gave me free time to work on Neowire.  
+
+### Neowire
+Not quite a year after going part time Neowire was almost making enough money to live on.  Ten months later, we are now making enough money to pay our taxes (hopefully).  I also decided I needed a place for my mind to wander.  Hence, richmiles.xyz.
 
 ## Fatherhood
-I don't remember much about the pregnancy and frankly I don't remember much about the early years, but I tell myself to "never forget".  The first two months were grueling, though in hindsight it really is a fraction of the time I've spent with Esher.  For me, 6 months was an inflection point.  The older he gets the more I love him.
+I don't remember much about the pregnancy and frankly I no longer remember much about the early months, but I tell myself to "never forget".  The first two months were grueling, though in hindsight it really is a fraction of the time I've spent with Esher.  For me, 6 months was an inflection point.  The older he gets the more I love him.
 
 
 ## Companions
 
 These are placeholders for future thoughts.
-1. Tiffany
-2. Jessica
-3. Joscelyn
-4. Micah
+### Tiffany
+### Jessica
+### Joscelyn
+### Micah
