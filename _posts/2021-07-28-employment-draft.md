@@ -3,8 +3,10 @@ title: Employment
 layout: post
 ---
 
-
 ## Employment
+### Casper's Family Dining
+As soon as I was old enough to work, I started as a dishwasher and busboy at Casper's Family Dining.
+
 ### Critique
 This lead me to a stint at an oil field, a couple of months in Mexico, and an interlude in San Diego.  When I returned to Laramie I was homeless, sleeping on couches of gracious friends before I ended up working in a carpet store.  After a few months of rollerblading and chili dogs I landed a job at Handel Information Technologies.  
 
