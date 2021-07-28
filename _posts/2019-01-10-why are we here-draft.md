@@ -4,10 +4,9 @@ layout: post
 ---
 
 ## Who Am I
-Hi.
-My name is Rich.
-I love all things math and science.
-Almost as much as my family.
+Hi.</br>
+My name is Rich.</br>
+I love all things math, science and engineering.</br>
 
 ## Early Years
 I was born in California but grew up in Wyoming, moving there when I was only 5.  After working my way through K-12 in Casper, I ended up at the University of Wyoming where I managed to graduate with a degree in Math.  The first book I ever remember reading was Streams of Silver, the second book in a fantasy trilogy by RA Salvator.  If memory serves (which it probably doesn't) I got it at RIF in 5th grade.  Obviously, I read other books before that -- Bunnicula maybe -- but that is the book that stands out in my mind.  I ended up buying dozens of Forgotten Realms books over the years.  Those and almost all of the Crichton books.  Jurassic Park was sooooo good.  However, in my opinion, the most influential book was Chaos by James Gleick.  That book gave me a love for the beauty of math that still motivates me today.
