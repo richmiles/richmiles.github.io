@@ -1,2 +1,7 @@
+---
+title: The Land
+layout: post
+---
+
 ## The Land
 This was such a formative part of my life I'm not entirely sure where to start.  When I was about 12 years old my dad asked us if we wanted to raise animals.  I don't know who would say no to that.  Watch out kids, it's a trap!  Anyway, we spent the next four years raising ourselves in the style of Lord of the Flies.  When I could finally drive we no longer had to stay out there and James and I ended up doing most of the work on our own.
